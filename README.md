@@ -1,3 +1,5 @@
+# 🎩 Monte Cristo for Notepad++ 
+
 ## [Notepad++](https://notepad-plus-plus.org/)
 
 ### Activating Theme
@@ -9,5 +11,5 @@
 
 ## More info.
 
-You can find more apps on ![Monte Cristo Theme Website](https://johndoe0153.github.io/monte-cristo-website/).  
-And you can also visit Github Page about this project to learn about more information from ![here](https://github.com/Johndoe0153/monte-cristo-theme).
+You can find more apps with Monte Cristo Theme in [this website](https://monte-cristos.github.io/monte-cristo-website/).  
+If you'd like to contribute to this theme, please visit our [Github](https://github.com/monte-cristos). You can also know about more informations too.
