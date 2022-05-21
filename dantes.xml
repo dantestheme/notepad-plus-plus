@@ -497,7 +497,7 @@
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FAFAFA" bgColor="a564fa" fontName="" fontStyle="1" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FAFAFA" bgColor="f01900" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="2F3142" fgColor="FAFAFA" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="3b4252" fgColor="FAFAFA" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="006a6a" fgColor="FAFAFA" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="FAFAFA" bgColor="1d2128" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="FAFAFA" bgColor="1d2128" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="FAFAFA" bgColor="1d2128" fontName="" fontStyle="0" fontSize="" />
